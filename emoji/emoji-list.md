@@ -2,12 +2,11 @@
 
 > emoji list
 
-## Table of Contents
+**Table of Contents
 
 -----------------
 
 - [emoji-list](#emoji-list)
-  - [Table of Contents](#table-of-contents)
   - [People](#people)
   - [Nature](#nature)
   - [Objects](#objects)
