@@ -1,18 +1,18 @@
-# emoji-list
+# 表情列表
 
-emoji 表情列表
+> 表情列表
 
-[![](https://img.shields.io/github/issues/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/issues)  [![](https://img.shields.io/github/forks/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/network) [![](https://img.shields.io/github/stars/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/stargazers) [![](https://travis-ci.org/caiyongji/emoji-list.svg?branch=master)](https://travis-ci.org/caiyongji/emoji-list) [![](https://img.shields.io/github/release/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/releases)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
-
-目录
+## 目录
 
 -----------------
 
-- [人物](#人物)
-- [自然](#自然)
-- [事物](#事物)
-- [地点](#地点)
-- [符号](#符号)
+- [表情列表](#%e8%a1%a8%e6%83%85%e5%88%97%e8%a1%a8)
+  - [目录](#%e7%9b%ae%e5%bd%95)
+  - [人物](#%e4%ba%ba%e7%89%a9)
+  - [自然](#%e8%87%aa%e7%84%b6)
+  - [事物](#%e4%ba%8b%e7%89%a9)
+  - [地点](#%e5%9c%b0%e7%82%b9)
+  - [符号](#%e7%ac%a6%e5%8f%b7)
 
 ## 人物
 
